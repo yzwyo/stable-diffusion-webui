@@ -1,0 +1,3 @@
+[submodule "/mnt/workspace/stable-diffusion-webui/repositories/BLIP"]
+	path = /mnt/workspace/stable-diffusion-webui/repositories/BLIP
+	url = https://gitcode.net/overbill1683/BLIP
