@@ -1,0 +1,2 @@
+1girl,
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1825070124, Size: 512x512, Model hash: ebb647fe7b, Model: counterfeitV2525d_counterfeitV2525d, ENSD: 31337
