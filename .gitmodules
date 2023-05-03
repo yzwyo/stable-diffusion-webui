@@ -1,3 +1,30 @@
 [submodule "repositories/k-diffusion"]
 	path = repositories/k-diffusion
 	url = https://gitcode.net/overbill1683/taming-transformers
+[submodule "repositories/BLIP"]
+	path = repositories/BLIP
+	url = https://gitcode.net/overbill1683/BLIP
+[submodule "repositories/CodeFormer"]
+	path = repositories/CodeFormer
+	url = https://gitcode.net/overbill1683/CodeFormer
+[submodule "repositories/stable-diffusion-stability-ai"]
+	path = repositories/stable-diffusion-stability-ai
+	url = https://gitcode.net/overbill1683/stablediffusion
+[submodule "repositories/taming-transformers"]
+	path = repositories/taming-transformers
+	url = https://gitcode.net/overbill1683/taming-transformers
+[submodule "extensions/a1111-sd-webui-tagcomplete"]
+	path = extensions/a1111-sd-webui-tagcomplete
+	url = https://gitcode.net/ranting8323/a1111-sd-webui-tagcomplete
+[submodule "extensions/stable-diffusion-webui-localization-zh_Hans"]
+	path = extensions/stable-diffusion-webui-localization-zh_Hans
+	url = https://gitcode.net/overbill1683/stable-diffusion-webui-localization-zh_Hans
+[submodule "extensions/sd-webui-additional-networks"]
+	path = extensions/sd-webui-additional-networks
+	url = https://gitcode.net/ranting8323/sd-webui-additional-networks
+[submodule "extensions/sd-webui-infinite-image-browsing"]
+	path = extensions/sd-webui-infinite-image-browsing
+	url = https://gitcode.net/ranting8323/sd-webui-infinite-image-browsing
+[submodule "extensions/stable-diffusion-webui-wd14-tagger"]
+	path = extensions/stable-diffusion-webui-wd14-tagger
+	url = https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger
